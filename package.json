@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Excellence-School-2/Riccardo-my-first-nodeproject/issues"
   },
-  "homepage": "https://github.com/Excellence-School-2/Riccardo-my-first-nodeproject#readme"
+  "homepage": "https://github.com/Excellence-School-2/Riccardo-my-first-nodeproject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
